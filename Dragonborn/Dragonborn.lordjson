@@ -2,7 +2,7 @@
 	"lord": {
 		"opponent_type": 23,
 		"lord_gfx_type": 1,
-		"flag_type": 0,
+		"flag_type": 9,
 		"use_of_religion": 2,
 		"use_of_ale": 2,
 		"vlow_popularity": 6000,
