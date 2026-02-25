@@ -144,7 +144,7 @@
 		"max_harrasment_machines": 1,
 		"harrass_delay": 5,
 		"siege_trigger_level": 75,
-		"siege_trigger_variance": 150,
+		"siege_trigger_variance": 100,
 		"siege_troops_before_will_come_to_rescue": 10,
 		"siege_troops_on_site_percent": 90,
 		"siege_troops_at_home_percent": 60,
@@ -302,6 +302,9 @@
 			0
 		],
 		"lord_power_display_level": 9,
-		"lord_hps_percent": 200
+		"lord_hps_percent": 200,
+		"siege_max_troops": 200,
+		"siege_normal_wave_multiplier": 10,
+		"siege_high_gold_wave_multiplier": 20
 	}
 }
