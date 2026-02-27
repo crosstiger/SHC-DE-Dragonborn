@@ -1,9 +1,13 @@
 # The Dragonborn
 ### A custom AI for Stronghold Crusader Definitive Edition
 
-Available on Steam Workshop or from this git repo.
+Available on Steam Workshop, Nexusmods or from this git repo.
+
+The Steam Workshop files won't contain custom voice or avatar. Only available via Nexus or this repo.
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3668830774
+
+https://www.nexusmods.com/strongholdcrusaderdefinitiveedition/mods/63
 
 If you got any suggestions, feels free to create a pull request.
 
