@@ -28,6 +28,8 @@ Checkpoint and LoRAs
 - Dragonborn  0.5
 - Demonman    0.4
 
+Seed    2194198411
+
 Positiv
 
 High Quality, Maximum detail, Single young dragonborn, clothing, upper body, desert landscape background, portrai, dark skin
