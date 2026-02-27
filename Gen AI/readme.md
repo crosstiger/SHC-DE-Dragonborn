@@ -21,28 +21,26 @@ Checkpoint and LoRAs
 | dragonborn_offset | https://civitai.com/models/114079/dragonborn-concept-lora |
 | daemonXP_v1.1-000015 | https://civitai.com/models/178203/demon-man |
 
-
-### Canvis settings
+### Prompt
 
 512x512
   
 - Dragonborn  0.5
-- Demonman    0.75
+- Demonman    0.4
 
 Positiv
 
-Single Dragonborn, Dark Skin, Armor, Portrai, Plain background
+High Quality, Maximum detail, Single young dragonborn, clothing, upper body, desert landscape background, portrai, dark skin
 
 Negativ
 
-Tail, Text, Hieroglyphe, Rocks, Words, Letter, Spelling
+Tail, multiple tail, Text, Hieroglyphe, Rocks, Words, Letter, Spelling, spikes,overexposed, static, blurry details, subtitles, style, artwork, painting, image, still, overall grayish, worst quality, low quality, JPEG compression residue, ugly, incomplete, extra fingers, poorly drawn hands, poorly drawn face, deformed, disfigured, distorted limbs, fingers fused together, static image, cluttered background, three legs, many people in the background, walking backwards, multiple character
 
 
 ### Image editing
 
 Slight editing in canvas tool, same prompt using brush tool
 
-Slight correction in gimp
 
 ## Video files
 
@@ -58,30 +56,30 @@ Wan 2.2 14B Image to Video Template
 
 ### Settings
 
-- 348x348
-- 61 Frames
+- 640x640
+- 16 FPS
 
 Rest default settings
 
 #### Prompt for Angry
 
-Dark Dragonborn male flexing his arms
+The dragon born pulling up a knife in his hands, looking at it from top to bottom, ending with looking straight into the camera
 
 #### Prompt for Happy
 
-Dark Dragonborn male looking at camera happiely
+The dragon born stands still, looking with an insane gaze at the camera, eyes wide open
 
 #### Prompt for Neutral
 
-Dark Dragonborn male looking at camera slowly exhaling
+The dragon born stands still, looking with determination into the camera, the camera is slowly moving away
 
 #### Prompt for Sad
 
-Dark Dragonborn male pointing with his claw at the camera, fletching his teeth, looking angry
+The dragon born stands still, shaking his head in fury, screaming out loud, ending by looking straight into the camera
 
 #### Additional negativ prompts
 
-talking, mouth movement, shaking, flashing
+Vibrant colors, overexposed, static, blurry details, subtitles, style, artwork, painting, image, still, overall grayish, worst quality, low quality, JPEG compression residue, ugly, incomplete, extra fingers, poorly drawn hands, poorly drawn faces, deformed, disfigured, distorted limbs, fingers fused together, static image, cluttered background, three legs, many people in the background, walking backwards.
 
 
 ### webm convertion
