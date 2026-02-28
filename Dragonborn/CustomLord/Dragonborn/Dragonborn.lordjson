@@ -304,7 +304,7 @@
 		"lord_power_display_level": 9,
 		"lord_hps_percent": 200,
 		"siege_max_troops": 400,
-		"siege_normal_wave_multiplier": 10,
-		"siege_high_gold_wave_multiplier": 20
+		"siege_normal_wave_multiplier": 20,
+		"siege_high_gold_wave_multiplier": 40
 	}
 }
