@@ -146,8 +146,8 @@
 		"siege_trigger_level": 75,
 		"siege_trigger_variance": 100,
 		"siege_troops_before_will_come_to_rescue": 10,
-		"siege_troops_on_site_percent": 90,
-		"siege_troops_at_home_percent": 60,
+		"siege_troops_on_site_percent": 80,
+		"siege_troops_at_home_percent": 40,
 		"siege_soften_up_delay": 1,
 		"siege_victory_delay": 2,
 		"percent_chance_waiting_for_joint_attack": 50,
@@ -304,7 +304,7 @@
 		"lord_power_display_level": 9,
 		"lord_hps_percent": 200,
 		"siege_max_troops": 400,
-		"siege_normal_wave_multiplier": 20,
-		"siege_high_gold_wave_multiplier": 40
+		"siege_normal_wave_multiplier": 10,
+		"siege_high_gold_wave_multiplier": 20
 	}
 }
